@@ -1,4 +1,4 @@
-# AI Agent Demo 02
+# AI Agent Demo 02: Coding Assistant
 
 This project is a demonstration of an agentic AI coding assistant with a tool-calling design. The agent uses Google's Gemini model to intelligently call various tools to interact with a filesystem and execute Python code.
 
